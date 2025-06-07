@@ -1,0 +1,87 @@
+[2025-06-05T09:47:05.784Z] [SYSTEM] 🚀 Moonshot Trader starting...
+[2025-06-05T09:47:06.485Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/CH29xYY6ikS8wPA5zq1QcNart9TseZCbLKn5effCihcL
+[2025-06-05T09:47:06.683Z] [SYSTEM] 🌐 Server listening on port 4000
+[2025-06-05T09:47:25.714Z] [WATCHLIST] 📥 BallDog | Age: 22s | MC: $652 | Holders: 2 | 2t9y12hZQkNFhTU535U6RjGzmB8ura1qxDRKcEsMpump
+[2025-06-05T09:47:25.745Z] [WATCHLIST] 📥 MOONDOGE | Age: 26s | MC: $676 | Holders: 3 | BzLa5WnYsAfdi8NAnkkhmH7VcHL2vGioerrwQUXRpump
+[2025-06-05T09:47:25.750Z] [WATCHLIST] 📥 THEORIES | Age: 29s | MC: $669 | Holders: 1 | G2aTutPVbHxFjjnWsD6akVJ234gpLe72m1YUyoxEpump
+[2025-06-05T09:47:25.765Z] [WATCHLIST] 📥 GRASS | Age: 88s | MC: $636 | Holders: 2 | 78jWWrZtcvGumJRqNDGj3wrhH1JovptoTdAQTtpMpump
+[2025-06-05T09:47:25.766Z] [WATCHLIST] 📥 F=MA | Age: 95s | MC: $3200 | Holders: 12 | AFF3fqZUPptemKzfKQRVjJeJMGyXbBYqGFJc2FNWpump
+[2025-06-05T09:47:25.769Z] [WATCHLIST] 📥 Pumpium | Age: 100s | MC: $502 | Holders: 5 | FBW2nU6jGWQ3JoMg1FfAPhb2gFZaGHNRkYg4eEPPpump
+[2025-06-05T09:47:25.773Z] [WATCHLIST] 📥 HOMIE | Age: 102s | MC: $1100 | Holders: 3 | tgiM99eEJ3mMpGrCx7iq1inwyfg4XJspE1NGacVpump
+[2025-06-05T09:47:25.776Z] [WATCHLIST] 📥 PABLO | Age: 158s | MC: $482 | Holders: 1 | DCkHVTQAzFp4wdP8MGW3xakSt4o5Ep946yM5YrmJpump
+[2025-06-05T09:47:25.782Z] [WATCHLIST] 📥 1frame | Age: 159s | MC: $626 | Holders: 2 | 7EWM9euyeyZBrpYwM1LCBJmg2TGkVRrZpkvDjyyUpump
+[2025-06-05T09:47:25.784Z] [WATCHLIST] 📥 KBBB | Age: 165s | MC: $422 | Holders: 1 | 2q4LHk3e4Xe6yETT3ZyprNB8QzrDVDVuPH1dhp9ipump
+[2025-06-05T09:47:25.786Z] [WATCHLIST] 📥 MEOWX | Age: 168s | MC: $1000 | Holders: 10 | CmcHtdWQpyaN58Jmv7yTc11to6SbyyAZYmHgd6Mqpump
+[2025-06-05T09:47:25.791Z] [WATCHLIST] 📥 VVW | Age: 172s | MC: $422 | Holders: 1 | 3TkpkGaKiyXB6xudTNCyZT3xH2RiHqGbnitBFDy1pump
+[2025-06-05T09:47:25.755Z] [WATCHLIST] 📥 Pumppamine | Age: 39s | MC: $544 | Holders: 2 | 6rKyFJ9TtkQpUK5dFiLNjAAYsoaEPEQEezMesGvGpump
+[2025-06-05T09:47:25.759Z] [WATCHLIST] 📥 Lil Trump | Age: 39s | MC: $460 | Holders: 2 | 8mfZisFhCC57RMSUi9wo5nF6tHvXH531UgaaoqkSpump
+[2025-06-05T09:47:25.762Z] [WATCHLIST] 📥 TRT | Age: 88s | MC: $624 | Holders: 2 | CjpqGHncnc1k2BigojgKEPtFrWoyuHQEiesz8XNFpump
+[2025-06-05T09:48:06.464Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/CH29xYY6ikS8wPA5zq1QcNart9TseZCbLKn5effCihcL
+[2025-06-05T09:48:07.712Z] [WATCHLIST] 📥 SIPCOIN | Age: 14s | MC: $328 | Holders: 3 | 3J2er2T9af1D5pDZnwk5Va29VGcKVaFJhTvhsbmUpUmp
+[2025-06-05T09:48:07.715Z] [WATCHLIST] 📥 USDP | Age: 19s | MC: $1100 | Holders: 5 | FTRF3yNbfJ53iHEySiLQxSHRa2GEC1BoBTW7TtbApump
+[2025-06-05T09:48:07.719Z] [WATCHLIST] 📥 sundrome | Age: 30s | MC: $948 | Holders: 2 | H8GutKLvtSQPyEGKTHDexDTdbsVMYUqy5DMYEwMPc25t
+[2025-06-05T09:48:07.735Z] [WATCHLIST] 📥 MT | Age: 32s | MC: $927 | Holders: 3 | 5nuH31hMTwhmxHhfBN57P3351zsULqZCweo2H6ympump
+[2025-06-05T09:48:22.435Z] [PUMPFUN] ⚠️ Modal skip failed for CH29xYY6ikS8wPA5zq1QcNart9TseZCbLKn5effCihcL: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-05T09:48:26.548Z] [PUMPFUN] ⚠️ Modal skip failed for CH29xYY6ikS8wPA5zq1QcNart9TseZCbLKn5effCihcL: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-05T09:48:32.157Z] [ERROR] ❌ Failed to track HG: Protocol error (Target.closeTarget): No target with given id found
+[2025-06-05T09:48:32.159Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/92xbXT2MfYNDWqfzhckkTk1Cess4FoUHwSF8vsv6pump
+[2025-06-05T09:48:32.320Z] [ERROR] ❌ Failed to track HG: Protocol error (Target.closeTarget): No target with given id found
+[2025-06-05T09:48:32.321Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/92xbXT2MfYNDWqfzhckkTk1Cess4FoUHwSF8vsv6pump
+[2025-06-05T09:48:45.953Z] [PUMPFUN] ⚠️ Modal skip failed for 92xbXT2MfYNDWqfzhckkTk1Cess4FoUHwSF8vsv6pump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-05T09:48:52.462Z] [ERROR] ❌ Failed to track never: Protocol error (Target.closeTarget): No target with given id found
+[2025-06-05T09:48:52.466Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/ATxk6mSG28kEUUfp3Rju4bXedQzJj9JEhLdMCudTuo78
+[2025-06-05T09:52:56.893Z] [SYSTEM] 🚀 Moonshot Trader starting...
+[2025-06-05T09:52:57.012Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/2t9y12hZQkNFhTU535U6RjGzmB8ura1qxDRKcEsMpump
+[2025-06-05T09:52:57.027Z] [SYSTEM] 🌐 Server listening on port 4000
+[2025-06-05T09:52:58.093Z] [WATCHLIST] 📥 CryptoChil | Age: 55s | MC: $588 | Holders: 3 | 7yizmxFKfCQ5LgznUWrEWgt8t2KspaDkkJRuANS3pump
+[2025-06-05T09:52:58.095Z] [WATCHLIST] 📥 CIDC | Age: 55s | MC: $352 | Holders: 2 | 34S2UKBGa9oYVSEZdY5BiJEmQPzuwU7VaQ9FAUCNpump
+[2025-06-05T09:52:58.097Z] [WATCHLIST] 📥 NPP | Age: 56s | MC: $376 | Holders: 2 | 8gjrsWJhfRFewxFek8TBin2CVDwVLGM5yYJWjQXtpump
+[2025-06-05T09:52:58.099Z] [WATCHLIST] 📥 AJT | Age: 60s | MC: $353 | Holders: 6 | 7bMX4F9hW7EqGEezh2M3MHxrf2uoHJ6LDL8ogQzApump
+[2025-06-05T09:52:58.101Z] [WATCHLIST] 📥 SHREKAN | Age: 68s | MC: $202 | Holders: 3 | Xx9yimFnbppvNc3Upb5PyKE6wsz82iRKeYxvdW5pump
+[2025-06-05T09:52:58.106Z] [WATCHLIST] 📥 Dankey | Age: 115s | MC: $544 | Holders: 3 | 9tKQJFMLU6c4reDuYgPkGH12TWPH2RpzSG345Kxqpump
+[2025-06-05T09:52:58.111Z] [WATCHLIST] 📥 TTB | Age: 127s | MC: $408 | Holders: 2 | 23yn73ppfj1Du6Qea8MeSRif2x7FofamwEUG9FYQpump
+[2025-06-05T09:52:58.114Z] [WATCHLIST] 📥 ITBRAINROT | Age: 132s | MC: $307 | Holders: 1 | HANEdZVwfQPza2LDYmYgTNq1GvtRoj7yV2Xurxfipump
+[2025-06-05T09:52:58.117Z] [WATCHLIST] 📥 Tritty | Age: 133s | MC: $1100 | Holders: 9 | BthTScQrBBy4cKHxdK16ZvFCDWJSgNryEmXfDPKgpump
+[2025-06-05T09:53:36.948Z] [ERROR] ❌ Failed to track BallDog: Protocol error (Target.closeTarget): No target with given id found
+[2025-06-05T09:53:36.954Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/BzLa5WnYsAfdi8NAnkkhmH7VcHL2vGioerrwQUXRpump
+[2025-06-05T09:53:57.123Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/2t9y12hZQkNFhTU535U6RjGzmB8ura1qxDRKcEsMpump
+[2025-06-05T09:53:58.274Z] [WATCHLIST] 📥 Nazcameme | Age: 55s | MC: $455 | Holders: 2 | E3aF1YtQGifqpzmhWoufL8cf1gMYCurExGwmhuEzpump
+[2025-06-05T09:53:58.281Z] [WATCHLIST] 📥 Kepler-725 | Age: 60s | MC: $493 | Holders: 1 | BUB2DDCLedvm9kVA5jJcpSfCFVPa4zWr2jx5BVd4pump
+[2025-06-05T09:53:58.279Z] [WATCHLIST] 📥 In U | Age: 57s | MC: $279 | Holders: 4 | 8tNT1xzg66j6zWLwXWwawSi9CXetwPvM2mHK9Cgxpump
+[2025-06-05T09:53:58.283Z] [WATCHLIST] 📥 Cosmos | Age: 64s | MC: $820 | Holders: 1 | 6h6eAWD1Xp6Z7yc7ijdGSP6zisq7MP4eissYxT6xgUAo
+[2025-06-05T09:54:13.120Z] [ERROR] ❌ Failed to track BallDog: Protocol error (Target.closeTarget): No target with given id found
+[2025-06-05T09:54:13.132Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/BzLa5WnYsAfdi8NAnkkhmH7VcHL2vGioerrwQUXRpump
+[2025-06-05T09:54:29.600Z] [ERROR] ❌ Failed to track MOONDOGE: Protocol error (Target.closeTarget): No target with given id found
+[2025-06-05T09:54:29.601Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/G2aTutPVbHxFjjnWsD6akVJ234gpLe72m1YUyoxEpump
+[2025-06-05T10:01:05.866Z] [SYSTEM] 🚀 Moonshot Trader starting...
+[2025-06-05T10:01:05.985Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/7yizmxFKfCQ5LgznUWrEWgt8t2KspaDkkJRuANS3pump
+[2025-06-05T10:01:05.999Z] [SYSTEM] 🌐 Server listening on port 4000
+[2025-06-05T10:01:07.072Z] [WATCHLIST] 📥 security | Age: 3s | MC: $2000 | Holders: 4 | Ci2y4GCshUS2u9YfwpCydpwroApYBh3Vw1RZLDrPzDmf
+[2025-06-05T10:01:07.076Z] [WATCHLIST] 📥 Win Free | Age: 15s | MC: $364 | Holders: 1 | 5wVus2J45f9AsgLmdmGDZsCa1jpPdcqQLt72XCoypump
+[2025-06-05T10:01:07.077Z] [WATCHLIST] 📥 Shakoi | Age: 18s | MC: $1100 | Holders: 2 | FZEtASFq5F2922KpHuNZG8aGuRCutu45f3PsAKZrpump
+[2025-06-05T10:01:07.079Z] [WATCHLIST] 📥 $ELX | Age: 19s | MC: $628 | Holders: 3 | xTdohwMQrwaXLDitYmExB3R1P6R2SxcUh1ZVPuQpump
+[2025-06-05T10:01:07.081Z] [WATCHLIST] 📥 hot | Age: 20s | MC: $272 | Holders: 1 | J4hiLdJDx4G7trVAuQB5JyBcWmscmXqcoynNdyBmpump
+[2025-06-05T10:01:07.083Z] [WATCHLIST] 📥 ButtWallet | Age: 63s | MC: $545 | Holders: 5 | HRwpc9DjKGuwmcq9Y1qhTdEaL7wSQbh1Npb2Vi8gpump
+[2025-06-05T10:01:07.085Z] [WATCHLIST] 📥 Accretion | Age: 68s | MC: $299 | Holders: 2 | 916J3fE5hg9aWRZRzvYQM9sJkXWQzJ3WCMWxumFapump
+[2025-06-05T10:01:07.086Z] [WATCHLIST] 📥 CA | Age: 69s | MC: $1300 | Holders: 5 | 5P2NodaDYpm9fFduLrQTc8kNe8dUJGAzz2apZWdnpump
+[2025-06-05T10:01:07.089Z] [WATCHLIST] 📥 LuLuDev | Age: 75s | MC: $1100 | Holders: 5 | 6w8tzurv1HM58tt35VnjBFPAvxXG1graPS5uA5qZpump
+[2025-06-05T10:01:07.093Z] [WATCHLIST] 📥 $ELX | Age: 133s | MC: $592 | Holders: 2 | xTdTqQZo4zEoCK4BhBQr8QDbzxj6iwqFoUAgHTApump
+[2025-06-05T10:01:07.091Z] [WATCHLIST] 📥 LeGooner | Age: 133s | MC: $619 | Holders: 1 | 8bqSieNBGixNdrFFnYoE34LtRbeaFDfbyX91j2X7pump
+[2025-06-05T10:01:07.098Z] [WATCHLIST] 📥 Dogtor | Age: 153s | MC: $836 | Holders: 2 | EFJwAzYx2b4EZkXVr7ARWKrh5fGvJX7j7AYjNdtspump
+[2025-06-05T10:01:35.348Z] [HISTORY] 📈 Snapshot for CryptoChil saved | MC: $4277
+[2025-06-05T10:01:35.356Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/34S2UKBGa9oYVSEZdY5BiJEmQPzuwU7VaQ9FAUCNpump
+[2025-06-05T10:01:54.729Z] [HISTORY] 📈 Snapshot for CIDC saved | MC: $4275
+[2025-06-05T10:01:54.732Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8gjrsWJhfRFewxFek8TBin2CVDwVLGM5yYJWjQXtpump
+[2025-06-05T10:02:06.000Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/7yizmxFKfCQ5LgznUWrEWgt8t2KspaDkkJRuANS3pump
+[2025-06-05T10:02:07.049Z] [WATCHLIST] 📥 CRESUS | Age: 13s | MC: $340 | Holders: 3 | GBTtkim8VRxVbxCq9ApkCPbjmnq9to2ZWJyN8Xjopump
+[2025-06-05T10:02:07.053Z] [WATCHLIST] 📥 Bride | Age: 22s | MC: $347 | Holders: 3 | C3nYo3D56KRmDNRHP8izH8HC6aRZRS5zf58av7Z4pump
+[2025-06-05T10:02:07.055Z] [WATCHLIST] 📥 Buchi | Age: 23s | MC: $533 | Holders: 1 | EfQHQfus4sckPboJkCHjN8awg61FeYaXNwDw6EKjpump
+[2025-06-05T10:02:07.058Z] [WATCHLIST] 📥 AKI | Age: 25s | MC: $307 | Holders: 1 | 6X967E3pgNxSqjaZaVWnjNgfSe9aZcVEHLu4Y3Gppump
+[2025-06-05T10:02:17.093Z] [HISTORY] 📈 Snapshot for NPP saved | MC: $4277
+[2025-06-05T10:02:17.135Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/7bMX4F9hW7EqGEezh2M3MHxrf2uoHJ6LDL8ogQzApump
+[2025-06-05T10:02:32.487Z] [HISTORY] 📈 Snapshot for CryptoChil saved | MC: $4277
+[2025-06-05T10:02:32.488Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/34S2UKBGa9oYVSEZdY5BiJEmQPzuwU7VaQ9FAUCNpump
+[2025-06-05T10:02:33.158Z] [HISTORY] 📈 Snapshot for AJT saved | MC: $4277
+[2025-06-05T10:02:33.161Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Xx9yimFnbppvNc3Upb5PyKE6wsz82iRKeYxvdW5pump
+[2025-06-05T10:02:50.644Z] [HISTORY] 📈 Snapshot for SHREKAN saved | MC: $4274
+[2025-06-05T10:02:50.651Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/9tKQJFMLU6c4reDuYgPkGH12TWPH2RpzSG345Kxqpump

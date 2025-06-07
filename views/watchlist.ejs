@@ -1,0 +1,50 @@
+<%- include('partials/header') %>
+
+<h1 class="text-2xl font-bold mb-4">🚀 Moonshot Watchlist</h1>
+
+  <form action="/run-batch" method="POST" class="mb-4">
+    <button class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700" type="submit">Run Batch Now</button>
+  </form>
+
+  <form action="/download-watchlist" method="GET" class="mb-4">
+  <button class="bg-gray-600 text-white px-4 py-2 rounded hover:bg-gray-700" type="submit">Download JSON</button>
+  </form>
+
+  <table class="w-full table-auto bg-white shadow rounded">
+  <thead>
+    <tr class="bg-gray-200">
+      <th class="px-4 py-2">Token</th>
+      <th class="px-4 py-2">Initial MC</th>
+      <th class="px-4 py-2">MC #2 (+Δt)</th>
+      <th class="px-4 py-2">MC #3 (+Δt)</th>
+      <th class="px-4 py-2">Gain %</th>
+      <th class="px-4 py-2">Confirmed</th>
+      <th class="px-4 py-2">First Seen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% tokens.forEach(token => {
+      const history = token.history || [];
+      const initial = history[0]?.market_cap || 0;
+      const second = history[1]?.market_cap || '-';
+      const third = history[2]?.market_cap || '-';
+      const time1 = new Date(history[0]?.time || '');
+      const time2 = new Date(history[1]?.time || '');
+      const time3 = new Date(history[2]?.time || '');
+      const diff1 = time2 && time1 ? `${Math.round((time2 - time1) / 1000)}s` : '-';
+      const diff2 = time3 && time1 ? `${Math.round((time3 - time1) / 1000)}s` : '-';
+    %>
+      <tr class="border-t text-sm">
+        <td class="px-4 py-2 font-medium"><%= token.name %></td>
+        <td class="px-4 py-2">$<%= initial.toLocaleString() %></td>
+        <td class="px-4 py-2">$<%= second.toLocaleString() %> <span class="text-xs text-gray-500">(+<%= diff1 %>)</span></td>
+        <td class="px-4 py-2">$<%= third.toLocaleString() %> <span class="text-xs text-gray-500">(+<%= diff2 %>)</span></td>
+        <td class="px-4 py-2"><%= token.gain?.toFixed(2) || 0 %>%</td>
+        <td class="px-4 py-2"><%= token.confirmed ? '✅' : '❌' %></td>
+        <td class="px-4 py-2"><%= token.first_seen %></td>
+      </tr>
+    <% }) %>
+  </tbody>
+</table>
+
+  <%- include('partials/footer') %>

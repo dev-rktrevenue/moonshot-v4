@@ -1,0 +1,14 @@
+{
+  "abc123": {
+    "name": "TestToken A",
+    "price": 0.001
+  },
+  "xyz456": {
+    "name": "TestToken B",
+    "price": 0.0045
+  },
+  "lmn789": {
+    "name": "TestToken C",
+    "price": 0.002
+  }
+}
